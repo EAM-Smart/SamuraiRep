@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Samurai\\SamuraiAppTest\\SamuraiAppTest.csproj": {}
+    "c:\\Samurai\\SamuraiRep\\Samurai\\SamuraiAppTest\\SamuraiAppTest.csproj": {}
   },
   "projects": {
-    "C:\\Samurai\\SamuraiAppTest\\SamuraiAppTest.csproj": {
+    "c:\\Samurai\\SamuraiRep\\Samurai\\SamuraiAppTest\\SamuraiAppTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Samurai\\SamuraiAppTest\\SamuraiAppTest.csproj",
+        "projectUniqueName": "c:\\Samurai\\SamuraiRep\\Samurai\\SamuraiAppTest\\SamuraiAppTest.csproj",
         "projectName": "SamuraiAppTest",
-        "projectPath": "C:\\Samurai\\SamuraiAppTest\\SamuraiAppTest.csproj",
+        "projectPath": "c:\\Samurai\\SamuraiRep\\Samurai\\SamuraiAppTest\\SamuraiAppTest.csproj",
         "packagesPath": "C:\\Users\\DevOps User\\.nuget\\packages\\",
-        "outputPath": "C:\\Samurai\\SamuraiAppTest\\obj\\",
+        "outputPath": "c:\\Samurai\\SamuraiRep\\Samurai\\SamuraiAppTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DevOps User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Samurai\\SamuraiApp\\SamuraiApp.csproj": {
-                "projectPath": "C:\\Samurai\\SamuraiApp\\SamuraiApp.csproj"
+              "c:\\Samurai\\SamuraiRep\\Samurai\\SamuraiApp\\SamuraiApp.csproj": {
+                "projectPath": "c:\\Samurai\\SamuraiRep\\Samurai\\SamuraiApp\\SamuraiApp.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Samurai\\SamuraiApp\\SamuraiApp.csproj": {
+    "c:\\Samurai\\SamuraiRep\\Samurai\\SamuraiApp\\SamuraiApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Samurai\\SamuraiApp\\SamuraiApp.csproj",
+        "projectUniqueName": "c:\\Samurai\\SamuraiRep\\Samurai\\SamuraiApp\\SamuraiApp.csproj",
         "projectName": "SamuraiApp",
-        "projectPath": "C:\\Samurai\\SamuraiApp\\SamuraiApp.csproj",
+        "projectPath": "c:\\Samurai\\SamuraiRep\\Samurai\\SamuraiApp\\SamuraiApp.csproj",
         "packagesPath": "C:\\Users\\DevOps User\\.nuget\\packages\\",
-        "outputPath": "C:\\Samurai\\SamuraiApp\\obj\\",
+        "outputPath": "c:\\Samurai\\SamuraiRep\\Samurai\\SamuraiApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DevOps User\\AppData\\Roaming\\NuGet\\NuGet.Config"
