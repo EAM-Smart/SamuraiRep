@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8d19hxjhm2cJka9BauYVDoiFVkD0SHlr6gvSAOMhh6JDaSReOosclwzCB4kJd48Q4k74oEEC9utyUZXT1ES2vA==",
+  "dgSpecHash": "k1Mwf2wJXvTVmojC4kjrZfdYpJkrTvRLI81hl55UhP1KGMGDzWvoTCjaAh2E4rdGc+JnYMki6hMrUd6I0Gf6Mw==",
   "success": true,
-  "projectFilePath": "C:\\Samurai\\SamuraiAppTest\\SamuraiAppTest.csproj",
+  "projectFilePath": "c:\\Samurai\\SamuraiRep\\Samurai\\SamuraiAppTest\\SamuraiAppTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DevOps User\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\DevOps User\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
